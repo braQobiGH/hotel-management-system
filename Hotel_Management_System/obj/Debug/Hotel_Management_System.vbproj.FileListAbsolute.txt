@@ -1,0 +1,83 @@
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.login2.resources
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Resources.resources
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.vbproj.GenerateResource.Cache
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.xml
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.xml
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.login.resources
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.homepage.resources
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.AdminPanel.resources
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.customers.resources
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Fianance.resources
+c:\users\braqobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.ReservationDetails.resources
+C:\Users\braQobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel.mdf
+C:\Users\braQobi\documents\visual studio 2013\Projects\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_log.ldf
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.xml
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel.mdf
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_log.ldf
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.xml
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.AdminPanel.resources
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.customers.resources
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Fianance.resources
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.login2.resources
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.homepage.resources
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.login.resources
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Resources.resources
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.ReservationDetails.resources
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.vbproj.GenerateResource.Cache
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.splashscreen.resources
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Add_Picture.resources
+C:\Users\OmAr\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.vbprojResolveAssemblyReference.cache
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel.mdf
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_log.ldf
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.xml
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.vbprojAssemblyReference.cache
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Add_Picture.resources
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.AdminPanel.resources
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.customers.resources
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.login2.resources
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.homepage.resources
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.login.resources
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Resources.resources
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.ReservationDetails.resources
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.splashscreen.resources
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.vbproj.GenerateResource.cache
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.xml
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Bookings.resources
+C:\Users\braQobi\Desktop\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Dashboard.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.xml
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel.mdf
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_log.ldf
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.xml
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.vbprojResolveAssemblyReference.cache
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Add_Picture.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.AdminPanel.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.customers.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Bookings.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Dashboard.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.login2.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.homepage.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.login.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Resources.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.ReservationDetails.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.splashscreen.resources
+E:\Projects\Project backups\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.vbproj.GenerateResource.Cache
